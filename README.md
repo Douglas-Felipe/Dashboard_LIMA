@@ -1,6 +1,6 @@
 # Dashboard_Trabalho de LIMA
 
-## link dos repositorio do colaboradores
+## link dos repositorio dos colaboradores
 
 Roy:  https://github.com/Roymp3
 
