@@ -1488,6 +1488,25 @@ header{
   background-color: #ebebeb;
 }
 
+ul a{
+  padding-left: 0%;
+ box-sizing: border-box;
+ border-top: 1px solid rgba(129, 63, 63, 0.1);
+ border-bottom: 1px  gray;
+ transition: .4s;
+
+}
+
+ul{
+  padding-inline-start: 0px;
+  margin-block-end: 0px;
+  
+}
+
+ul:hover a{
+  padding-left: 50px;
+}
+
 
 
 
