@@ -29,13 +29,13 @@
 #countIcones{
   display: flex;
   align-items: flex-end;
-  margin-left: 13%;
+  margin-left: 13%; 
 }
 .icones{
   display: flex;
   align-self: flex-end;
   justify-content: space-between;
-
-}
+    margin-left: -15%;
+}       
 
 }
