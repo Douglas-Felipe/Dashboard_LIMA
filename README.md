@@ -8,6 +8,5 @@ haile: [https://github.com/hailemarcos](https://github.com/hailemarcos)
 
 Erica: [https://github.com/EricaSantos-FullStack](https://github.com/EricaSantos-FullStack)
 
-Igor: [https://github.com/IIgoor](https://github.com/IIgoor)
 
 Link do repositório: [https://douglas-felipe.github.io/Dashboard_LIMA/DashBoardLIMA/dist/index.html](https://douglas-felipe.github.io/Dashboard_LIMA/DashBoardLIMA/dist/index.html)
