@@ -1335,6 +1335,20 @@ header{
 }
 /* CSS footer - end */
 
+/* CSS Icones - Start */
+#countIcones{
+  display: flex;
+  align-items: flex-end;
+  margin-left: 70%;
+}
+.icones{
+  display: flex;
+  align-self: flex-end;
+  justify-content: space-between;
+
+}
+/* CSS Icones - end */
+
 ul a{
  padding-left: 0%;
  box-sizing: border-box;
@@ -1355,6 +1369,6 @@ ul:hover a{
 }
 #sidebarToggle{
 
-  margin-left: -70px;
+  margin-left: 0px;
 }
 
